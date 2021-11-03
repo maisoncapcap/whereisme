@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Where is ME?
+Clément is at the LOB! If not at his desk, check inside the computer
 
-You can use the [editor on GitHub](https://github.com/maisoncapcap/whereisme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://c.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif)
+<!-- Clément is at the LOB! If not at his desk, check inside the computer ![Image](https://c.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif) -->
+<!-- Clément is at home. Send him a Hi" through mail or [Slack](https://laboptiquebiosciences.slack.com) ![Image](https://monophy.com/media/jkSvCVEXWlOla/monophy.gif) -->Exa
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+See you soon, hello back
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maisoncapcap/whereisme/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Myself 
